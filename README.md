@@ -5,10 +5,8 @@ The requirements are:
 ##  Run setup
 
     * git clone https://github.com/iamkelvinwhyte/stringcalculator.git
-    * python -m venv venv
-    * pip install -r requirements.txt
-    * python main.py
-    * Navigate to dist/main.exec
+    
+    * Navigate to dist/main.exec and run main.exec
     
 
 ##  Project UnitTest 
